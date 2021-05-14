@@ -1,0 +1,48 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=de.tkunkel.theTrueKurt",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "theTrueKurt",
+      "name": "TheTrueKurt",
+      "publisher": "WarEagle",
+      "tray_image_file": "tray_theTrueKurt.png",
+      "image_data_version":"3 ",
+      "avoid_cache":false,
+      "publisher_email":"sjurwareagle@googlemail.com",
+      "publisher_website": "https://apps.tkunkel.de/privacy_thetruekurt.html",
+      "privacy_policy_website": "https://apps.tkunkel.de/privacy_thetruekurt.html",
+      "license_agreement_website": "https://apps.tkunkel.de/privacy_thetruekurt.html",
+      "stickers": [
+        {
+          "image_file": "thetru2Dance.webp",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "thetru2Derp.webp",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "thetru2Drama.webp",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "thetru2Gib.webp",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "thetru2S.webp",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "thetru2Why.webp",
+          "emojis": ["🙂"]
+        },
+        {
+          "image_file": "thetru2Wow.webp",
+          "emojis": ["🙂"]
+        }
+      ]
+    }
+  ]
+}
